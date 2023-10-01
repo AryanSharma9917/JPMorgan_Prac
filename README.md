@@ -1,7 +1,7 @@
 ![HacktoberFest 2022](./assets/logo-light.png#gh-dark-mode-only)
 ![HacktoberFest 2022](./assets/logo-dark.png#gh-light-mode-only)
 
-# HacktoberFest 2022
+# HacktoberFest 2023
 
 A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and GitHub to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
@@ -45,4 +45,5 @@ It's very easy. Follow the below steps you need to create your -(maybe)- EXAMPLE
 
 Aryan Sharma"
 
-- Happy hacking!
+- Happy hacking :)
+My name is aryan Sharma
