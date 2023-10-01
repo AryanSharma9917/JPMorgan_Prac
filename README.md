@@ -45,5 +45,4 @@ It's very easy. Follow the below steps you need to create your -(maybe)- EXAMPLE
 
 Aryan Sharma"
 
-- Happy hacking :)
-My name is aryan Sharma
+- Happy hacking 
